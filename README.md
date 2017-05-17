@@ -1,5 +1,6 @@
 # Inception Deck [traduction française]
 Traduction de l'inception deck de Agile Samurai
+Traducteur: Batard Florent (http://code-artisan.io)
 Les fichiers proposé sont :
 
 - PDF
